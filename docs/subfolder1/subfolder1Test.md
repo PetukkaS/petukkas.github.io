@@ -1,5 +1,5 @@
 ---
-title: Subfolder Test
+title: Subfolder 1 Testpage 1
 layout: default
 parent: Subfolder
 ---
