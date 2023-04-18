@@ -1,7 +1,7 @@
 ---
 title: Subfolder Test 2
 layout: home
-parent: Subfolder
+parent: Subfolder 2
 ---
 
 Test line
