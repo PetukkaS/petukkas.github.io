@@ -1,7 +1,8 @@
 ---
 title: Test
-layout: home
+layout: default
 nav_order: 4
+katex: true
 ---
 
 Test line for test page
