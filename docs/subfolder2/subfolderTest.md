@@ -1,7 +1,7 @@
 ---
-title: Test
+title: Subfolder Test
 layout: home
-nav_order: 4
+parent: Subfolder
 ---
 
 Test line
