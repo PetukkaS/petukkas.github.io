@@ -1,9 +1,8 @@
 ---
 title: Test
-layout: home
+layout: default
 nav_order: 4
 ---
 
-Test line
-
+Test line for test page
 ----

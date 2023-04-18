@@ -1,9 +1,9 @@
 ---
 title: Subfolder Test
-layout: home
+layout: default
 parent: Subfolder
 ---
 
-Test line
+Subfolder 1, subpage 1
 
 ----
