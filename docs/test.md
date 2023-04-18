@@ -1,6 +1,6 @@
 ---
 title: Test
-layout: buildTimeLatex
+layout: default
 nav_order: 4
 ---
 
