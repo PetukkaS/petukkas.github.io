@@ -1,7 +1,7 @@
 ---
 title: Yliopistomatematiikka aihe 01
 layout: default
-parent: Yliopistomatematiikka aihepiiri 1
+parent: Yliopistomatematiikka aihepiiri 01
 katex: true
 ---
 

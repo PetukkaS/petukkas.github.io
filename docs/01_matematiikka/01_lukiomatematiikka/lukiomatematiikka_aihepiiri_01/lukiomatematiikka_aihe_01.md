@@ -1,7 +1,7 @@
 ---
 title: Lukiomatematiikka aihe 01
 layout: default
-parent: Lukiomatematiikka aihepiiri 1
+parent: Lukiomatematiikka aihepiiri 01
 katex: true
 ---
 

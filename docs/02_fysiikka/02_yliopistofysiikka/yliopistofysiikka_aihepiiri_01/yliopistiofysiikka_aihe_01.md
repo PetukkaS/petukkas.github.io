@@ -1,7 +1,7 @@
 ---
 title: Yliopistofysiikka aihe 01
 layout: default
-parent: Yliopistofysiikka aihepiiri 1
+parent: Yliopistofysiikka aihepiiri 01
 katex: true
 ---
 

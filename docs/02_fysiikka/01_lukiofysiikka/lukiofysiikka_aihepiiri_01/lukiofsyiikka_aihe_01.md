@@ -1,7 +1,7 @@
 ---
 title: Lukiofysiikka aihe 01
 layout: default
-parent: Lukiofysiikka aihepiiri 1
+parent: Lukiofysiikka aihepiiri 01
 katex: true
 ---
 
