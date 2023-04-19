@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lukio Aihepiiri 1
+title: Subfolder
 nav_order: 1
 has_children: true
 ---

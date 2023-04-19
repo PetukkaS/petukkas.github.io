@@ -1,11 +1,11 @@
 ---
-title: Luikioamatematiikka aihe 01
+title: Placeholder title
 layout: default
-parent: Lukiomatematiikka Aihepiiri 1
+parent: Subsubfolder
 katex: true
 ---
 
-Ensimmäinen matematiikan aihe.
+Esimerkkisivu
 
 This is an example of inline \\(\LaTeX\\). The following is Stokes' theorem in a
 `displaymath` environment: \$$\int_{\partial \Omega} \omega = \int_{\Omega} d\omega\$$
