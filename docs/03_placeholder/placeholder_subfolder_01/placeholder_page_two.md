@@ -1,7 +1,8 @@
 ---
 title: Another title
 layout: default
-parent: Subsubfolder
+parent: Subfolder
+grand_parent: Placeholder
 katex: true
 ---
 
