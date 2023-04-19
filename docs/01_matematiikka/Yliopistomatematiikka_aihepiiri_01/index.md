@@ -3,6 +3,5 @@ layout: default
 title: Yliopistomatematiikka aihepiiri 01
 nav_order: 2
 has_children: true
-parent: Yliopistomatematiikka
-grand_parent: Matematiikka
+parent: Matematiikka
 ---
