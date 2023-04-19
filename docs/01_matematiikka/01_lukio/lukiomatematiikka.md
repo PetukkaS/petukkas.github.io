@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Subfolder
-nav_order: 2
+title: Lukiomatematiikka
+nav_order: 1
 has_children: true
 ---

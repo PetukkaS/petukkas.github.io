@@ -1,11 +1,11 @@
 ---
-title: Subfolder 2 Testpage 2
+title: Luikioamatematiikka aihe 01
 layout: default
-parent: Subfolder
+parent: Lukiomatematiikka Aihepiiri 1
 katex: true
 ---
 
-Subfolder 1, subpage 2
+Ensimmäinen matematiikan aihe.
 
 This is an example of inline \\(\LaTeX\\). The following is Stokes' theorem in a
 `displaymath` environment: \$$\int_{\partial \Omega} \omega = \int_{\Omega} d\omega\$$
